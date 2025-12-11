@@ -1,0 +1,12 @@
+moon
+neptune
+jupiter
+mercury
+mars
+venus
+saturn
+uranus
+chibi
+pluto
+luna
+artemis
